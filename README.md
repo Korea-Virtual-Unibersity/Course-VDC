@@ -1,5 +1,6 @@
 # 버츄얼 데이터통신
 
+* 교강사: [@theeluwin](https://github.com/theeluwin)
 * 추천 수강 학년: 학부 2학년
 
 ## 차시별 강의
