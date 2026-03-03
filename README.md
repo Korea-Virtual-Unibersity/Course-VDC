@@ -61,7 +61,7 @@
 * 강의 자료: TBA
 * 강의 영상: TBA
 * 과제: Assignment 3
-    * TBA
+    * [ [GitHub Classroom Assignment Invitation 링크](https://classroom.github.com/a/JuG0kbaD) ]
 
 ### 11. 데이터링크 제어
 
